@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Letícia 👋
 
-<!--
-**L3ticialele/L3ticialele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student passionate about technology and software development.
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- Python
+- JavaScript
+- C
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Software Architecture
+- Backend Development
+- Algorithms and Data Structures
+
+## Contact
+LinkedIn: linkedin.com/in/leticiaferreirapinto
