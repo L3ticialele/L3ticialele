@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Letícia</h1>
-<h3 align="center">Software Engineering Student from Brazil</h3>
+<h1>Hi 👋, I'm Letícia</h1>
+<h3>Software Engineering Student from Brazil</h3>
 
 <p>💻 Passionate about backend development and problem solving</p>  
 <p>🎓 Software Engineering student at UNA</p> 
