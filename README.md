@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Letícia</h1>
 <h3 align="center">Software Engineering Student from Brazil</h3>
 
-<p align="center">
-💻 Passionate about backend development and problem solving  
-🎓 Software Engineering student at UNA  
-🚀 Looking for opportunities to grow as a developer
-</p>
+<p>💻 Passionate about backend development and problem solving</p>  
+<p>🎓 Software Engineering student at UNA</p> 
+<p>🚀 Looking for opportunities to grow as a developer</p> 
 
 ---
 
