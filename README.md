@@ -1,18 +1,60 @@
-# Hi, I'm Letícia 👋
+<h1 align="center">Hi 👋, I'm Letícia</h1>
+<h3 align="center">Software Engineering Student from Brazil</h3>
 
-Software Engineering student passionate about technology and software development.
+<p align="center">
+💻 Passionate about backend development and problem solving  
+🎓 Software Engineering student at UNA  
+🚀 Looking for opportunities to grow as a developer
+</p>
 
-## Skills
-- Java
-- Python
-- JavaScript
-- C
-- MySQL
+---
 
-## Currently Learning
-- Software Architecture
-- Backend Development
-- Algorithms and Data Structures
+### 🧠 About me
 
-## Contact
-LinkedIn: linkedin.com/in/leticiaferreirapinto
+- 🎓 Software Engineering student  
+- 💻 Technical degree in IT from CEFET-MG  
+- 🌱 Currently learning **Software Engineering and Backend Development**  
+- 🎯 Interested in **Algorithms, Data Structures and Scalable Systems**
+
+---
+
+### 🚀 Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,mysql,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=L3ticialele&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3ticialele&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p>
+<img src="https://streak-stats.demolab.com/?user=L3ticialele&theme=tokyonight"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+🔹 Sports Court Scheduling System  
+🔹 CubeSat Data Management System  
+🔹 Algorithms and Data Structures
+
+---
+
+### 📫 Connect with me
+
+<p>
+<a href="https://www.linkedin.com/in/leticiaferreirapinto/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
